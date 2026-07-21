@@ -4,7 +4,7 @@ An interactive 3D visualization that teaches how JSON Web Tokens (JWT) are creat
 
 Instead of reading documentation, users can watch every stage of JWT generation—from Header creation to the final signed token.
 
-Live Link : [JWT Visualizer](jwt-visulizer.vercel.app)
+Live Link : [JWT Visualizer](https://jwt-visulizer.vercel.app/)
 
 
 ---
