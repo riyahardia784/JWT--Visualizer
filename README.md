@@ -162,7 +162,7 @@ Step 6 — View JWT Summary
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/jwt-visualizer.git
+git clone https://github.com/riyahardia784/JWT--Visualizer.git
 ```
 
 ```bash
