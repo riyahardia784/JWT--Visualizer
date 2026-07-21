@@ -141,6 +141,21 @@ Step 6 — View JWT Summary
 
 <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/ee78d859-bf1a-478d-8143-15c538993396" />
 
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/a9b4c5d3-5ac3-40cd-8deb-0acd0c761740" />
+
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/c4cb2b30-e802-42bb-944b-afe9326b7c39" />
+
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/77a464d8-1ff0-4f16-90f6-8fded6913a50" />
+
+<img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/145b9d4e-7c0b-469f-801a-ed2119fc80c5" />
+
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/69ca763d-b7cd-4e56-8aa4-783f6cab9725" />
+
+
+
+
+
+
 
 ---
 
