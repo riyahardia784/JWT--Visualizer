@@ -139,7 +139,8 @@ Step 6 — View JWT Summary
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/ee78d859-bf1a-478d-8143-15c538993396" />
+
 
 ---
 
